@@ -74,6 +74,21 @@ body {
     gap: 20px;
 }
 
+.product-cost {
+    color: #27ae60;
+    font-size: 1.1rem;
+    margin: 10px 0;
+    font-weight: 600;
+}
+
+.category-heading {
+    width: 100%;
+    text-align: center;
+    margin: 20px 0 10px;
+    font-size: 1.8rem;
+    color: #2c3e50;
+}
+
 /* Pseudo-classes - Hover effect on product button */
 .product-card:hover {
     transform: scale(1.05);
